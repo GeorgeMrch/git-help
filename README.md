@@ -13,11 +13,11 @@
 Создайте файлы `todo.txt` и `readme.txt` в директории `first-project` и запустите `git status`, чтобы посмотреть, что изменилось.
 
 ```bash
-touch todo.txt
-touch readme.txt
+$ touch todo.txt
+$ touch readme.txt
 # создаем файлы todo.txt и readme.txt
 
-git status # проверили статус
+$ git status # проверили статус
 ```
 ### 3. Делаем первый коммит
 ### 4. Просматриваем историю коммитов
